@@ -1,5 +1,8 @@
 /**
  * Nodes in a Bit Tree
+ * 
+ * @author Lydia Ye
+ * @version November 2023
  */
 public class BitTreeNode {
   // +--------+-----------------------------------------------------------
@@ -34,7 +37,7 @@ public class BitTreeNode {
   /**
    * Leaves in the bit tree
    */
-  public static class BitTreeLeaf extends BitTreeNode{
+  public static class BitTreeLeaf extends BitTreeNode {
     // +--------+-----------------------------------------------------------
     // | Fields |
     // +--------+
