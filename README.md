@@ -2,7 +2,7 @@
 
 Author: Lydia Ye
 
-Date: Nov. 16 2023
+Date: Nov. 16 2023 (Updated on Dec. 15, 2023)
 
 This repository contains programs that implement binary bit trees to store the translation 
 information between Braille code, ASCII character, and unicode. The main program, BrailleASCII 
